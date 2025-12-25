@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact / 연락처
 
 - Issues: [GitHub Issues](https://github.com/task-frsh/avcut/issues)
-- Email: geumgang_0@aol.com
+- Email: task.frsh@gmail.com
 
 ---
 
