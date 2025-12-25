@@ -1,7 +1,7 @@
 # AVcut - Video Splitter / 동영상 분할기
 
 <p align="center">
-  <img src="assets/icon.png" alt="AVcut Logo" width="128" height="128">
+  <img src="https://github.com/user-attachments/assets/fa794a3f-635e-448f-8893-7cbb39207ddc" alt="AVcut Screenshot" width="600">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 ## Download / 다운로드
 
 ### Latest Release / 최신 버전
-- [AVcut-v1.0.0-win64.zip](https://github.com/yourusername/avcut/releases/latest)
+- [AVcut-v1.0.0-win64.zip](https://github.com/task-frsh/avcut/releases/latest)
 
 ### Requirements / 요구사항
 - Windows 10/11 (64-bit)
@@ -129,8 +129,8 @@ For detailed usage instructions, see:
 
 ```bash
 # Clone repository / 저장소 복제
-git clone https://github.com/yourusername/avicut.git
-cd avicut
+git clone https://github.com/task-frsh/avcut.git
+cd avcut
 
 # Create virtual environment / 가상환경 생성
 python -m venv venv
@@ -240,8 +240,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact / 연락처
 
-- Issues: [GitHub Issues](https://github.com/task-frsh/avicut/issues)
-- Email: geumgang_0@​aol.com
+- Issues: [GitHub Issues](https://github.com/task-frsh/avcut/issues)
+- Email: geumgang_0@aol.com
 
 ---
 
