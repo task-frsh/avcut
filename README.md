@@ -240,8 +240,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact / 연락처
 
-- Issues: [GitHub Issues](https://github.com/yourusername/avicut/issues)
-- Email: your.email@example.com
+- Issues: [GitHub Issues](https://github.com/task-frsh/avicut/issues)
+- Email: geumgang_0@​aol.com
 
 ---
 
