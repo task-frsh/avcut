@@ -1,0 +1,63 @@
+{
+    "app": {
+        "title": "AviCut - 동영상 분할기",
+        "version": "v1.0.0"
+    },
+    "drop": {
+        "title": "+",
+        "instruction": "동영상 파일을 여기에 드래그하세요",
+        "or": "또는"
+    },
+    "btn": {
+        "select_files": "파일 선택",
+        "select_folder": "폴더 선택",
+        "start": "분할 시작",
+        "cancel": "취소",
+        "browse": "찾아보기",
+        "open_folder": "출력 폴더 열기",
+        "split_more": "더 분할하기",
+        "clear_all": "전체 삭제",
+        "remove": "제거"
+    },
+    "label": {
+        "duration": "분할 단위 (분)",
+        "output": "출력 폴더",
+        "files": "파일",
+        "total_duration": "총 길이"
+    },
+    "status": {
+        "ready": "준비됨",
+        "processing": "처리 중...",
+        "complete": "완료!",
+        "cancelled": "취소됨",
+        "error": "오류"
+    },
+    "result": {
+        "title": "분할 완료!",
+        "summary": "요약",
+        "total_files": "처리된 파일",
+        "successful": "성공",
+        "failed": "실패",
+        "segments": "생성된 세그먼트",
+        "output_files": "출력 파일"
+    },
+    "error": {
+        "no_files": "먼저 동영상 파일을 추가해주세요",
+        "no_output": "출력 폴더를 선택해주세요",
+        "invalid_duration": "올바른 시간을 입력해주세요",
+        "ffmpeg_not_found": "FFmpeg를 찾을 수 없습니다",
+        "split_failed": "동영상 분할에 실패했습니다"
+    },
+    "dialog": {
+        "select_files": "동영상 파일 선택",
+        "select_folder": "폴더 선택",
+        "select_output": "출력 폴더 선택"
+    },
+    "language": {
+        "toggle": "English"
+    },
+    "format": {
+        "minutes": "분",
+        "seconds": "초"
+    }
+}

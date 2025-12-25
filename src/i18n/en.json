@@ -1,0 +1,63 @@
+{
+    "app": {
+        "title": "AviCut - Video Splitter",
+        "version": "v1.0.0"
+    },
+    "drop": {
+        "title": "+",
+        "instruction": "Drag & Drop video files here",
+        "or": "or"
+    },
+    "btn": {
+        "select_files": "Select Files",
+        "select_folder": "Select Folder",
+        "start": "Start Split",
+        "cancel": "Cancel",
+        "browse": "Browse",
+        "open_folder": "Open Output Folder",
+        "split_more": "Split More Videos",
+        "clear_all": "Clear All",
+        "remove": "Remove"
+    },
+    "label": {
+        "duration": "Split Duration (minutes)",
+        "output": "Output Folder",
+        "files": "Files",
+        "total_duration": "Total Duration"
+    },
+    "status": {
+        "ready": "Ready",
+        "processing": "Processing...",
+        "complete": "Complete!",
+        "cancelled": "Cancelled",
+        "error": "Error"
+    },
+    "result": {
+        "title": "Split Complete!",
+        "summary": "Summary",
+        "total_files": "Total Files Processed",
+        "successful": "Successful",
+        "failed": "Failed",
+        "segments": "Total Segments Created",
+        "output_files": "Output Files"
+    },
+    "error": {
+        "no_files": "Please add video files first",
+        "no_output": "Please select an output folder",
+        "invalid_duration": "Please enter a valid duration",
+        "ffmpeg_not_found": "FFmpeg not found",
+        "split_failed": "Failed to split video"
+    },
+    "dialog": {
+        "select_files": "Select Video Files",
+        "select_folder": "Select Folder",
+        "select_output": "Select Output Folder"
+    },
+    "language": {
+        "toggle": "한국어"
+    },
+    "format": {
+        "minutes": "min",
+        "seconds": "sec"
+    }
+}
